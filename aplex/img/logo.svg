@@ -1,0 +1,7 @@
+<svg width="200" height="44" viewBox="0 0 200 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mark: stylized A -->
+  <path d="M6 36 L16 8 L26 36" stroke="#1D1D1F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M9.5 27 L22.5 27" stroke="#1D1D1F" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Wordmark -->
+  <text x="38" y="30" font-family="-apple-system, 'Helvetica Neue', Helvetica, sans-serif" font-weight="300" font-size="26" fill="#1D1D1F" letter-spacing="-0.5">APLEX</text>
+</svg>
